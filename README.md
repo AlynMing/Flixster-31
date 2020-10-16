@@ -21,9 +21,9 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### Notes
 While developing this second part of the Flixster app, I faced a couple of challenges. The issue that took me the longest to figure
-out was occured while trying to setup the Colleciton View. Things were not matching with what the instruction videos were showing and 
-unexpected errors were showing. After a while, I realized the cause of the issue was that one of my files had the wrong name. Another
-issue I faced was realted to the size of the posters. I fixed this issue by changing the Estimate Size of the UIImageView from automatic
+out occured while trying to setup the Colleciton View. Things were not matching with what the instruction videos were showing and 
+unexpected errors were occured. After a while, I realized the cause of the issue was that one of my files had the wrong name. Another
+issue I faced was related to the size of the posters. I fixed this issue by changing the Estimate Size of the UIImageView from automatic
 to None. The TAs were really helpful in debugging with me. 
 
 
