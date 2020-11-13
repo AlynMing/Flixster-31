@@ -44,7 +44,7 @@ to None. The TAs were really helpful in debugging with me.
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/mfF3ShqKSf.gif" width=250><br>
+<img src="flix.gif" width=250><br>
 
 ### Notes
 While building the first part of the Flixster app, I did not encounter any significant challenges. I really enjoyed following the 
